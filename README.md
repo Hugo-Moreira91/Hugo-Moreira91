@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Hugo-Moreira91">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugo-Moreira91&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Moreira91&layout=compact&langs_count=6&theme=neon"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugo-Moreira91&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Moreira91&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -16,7 +16,7 @@
  
 <br>
  
-### 👉 Para contatos, entre nos links abaixo! 💬
+### Para contatos, entre nos links abaixo! 💬
 
 <br>
 <div>
